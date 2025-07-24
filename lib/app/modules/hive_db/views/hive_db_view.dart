@@ -5,6 +5,8 @@ import 'package:flutter_zezen/app/widget/text/txt.dart';
 import 'package:get/get.dart';
 
 import '../controllers/hive_db_controller.dart';
+// untuk generate code to g.dart
+// flutter_zezen % flutter packages pub run build_runner build
 
 class HiveDbView extends GetView<HiveDbController> {
   const HiveDbView({super.key});

@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 
 class HiveDbController extends GetxController {
-  //TODO: Implement HiveDbController
+  
 
   final count = 0.obs;
   @override
